@@ -313,6 +313,7 @@ Add secrets in GitHub: **Repo → Settings → Secrets and variables → Actions
 ##  Author
 
 **Nimmy J Vipin** — built as part of Agentic AI learning journey  
+**Nagendra Mouli** - built as part of Agentic AI learning journey  
 
 ---
 
